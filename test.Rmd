@@ -1,0 +1,22 @@
+---
+title: "test"
+author: "Ke Nie"
+date: '2022-11-11'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Studio / Github test
+
+Obviously, this is just a test to see how it works.
+
+Oh, this looks fun!
+
+```{r}
+library(caret)
+```
